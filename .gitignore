@@ -1,2 +1,9 @@
+# 忽略所有 .docx扩展名文件
+*.docx
 GIT笔记.docx
+
+# 忽略指定得文件
 abc.txt
+
+# 忽略images目录
+images
